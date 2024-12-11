@@ -14,7 +14,7 @@
   </div>
 </div>
 
-###
+##
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -28,7 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="react logo"  />
 </div>
 
-###
+<h6 align="center">I still suck at most of these</h6>
+
+##
 
 <div>
   <h3 align="center">here is a run down of some stuff.</h3>
