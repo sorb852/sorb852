@@ -1,4 +1,4 @@
-<h1 align="center">Hoi there!!1!1 🙃👎 (i know you get this joke)</h1>
+<h1 align="center">Hoi there!!1!1 👎🙃 (i know you get this joke)</h1>
 
 <h3 align="center">Im Sorbi (☝️🤓) if you didnt see the left side of your screen.</h3>
 
