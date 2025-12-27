@@ -1,47 +1,47 @@
-<h1 align="center">Hoi there!!1!1 👎🙃 (i know you get this joke)</h1>
+<h1 align="center">hi, i'm sorbi</h1>
 
-<h3 align="center">Im Sorbi (☝️🤓) if you didnt see the left side of your screen.</h3>
+<h3 align="center">A "somewhat passionate" programmer from Mongolia</h3>
 
-###
-<!-- <div style="width: 100%; display: flex; justify-content: center; align-items: center">
-</div> -->
+<table>
+  <tr>
+    <td align="center" width="70%">
+      <img src="/metrics.classic.svg" />
+    </td>
+    <td align="center" width="30%">
+      <img src="/ULTRAPET.gif" width="100" />
+      <img src="/oneshotsopeak.gif" width="100" />
+    </td>
+  </tr>
+</table>
 
-<div style="width: 100%; display: flex; align-items: center" align="center">
-  <img src="./ULTRAPET.gif"/>
-  <div align="center">
-    <img src="https://streak-stats.demolab.com?user=sorbTheGoobert&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sorbTheGoobert&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=false&custom_title=ignore%20C%20and%20Cpp" height="150" alt="languages graph"  />
-  </div>
-</div>
+- I work on bunch of stuff like web apps, web API's, web buzz words but I mostly try to make games.
+  - or just anything fun
+    - YES, I code for fun
+      - YES, I have no friends (somehow a lie???)
+        - YES, idk find an insult of your own
+  - Lately tho I haven't done much (I'm not updating ts readme for another year aint it so im always gonna be doing nothing lol)
+- uhh fun fact, i do pretty decent on my natives it olympiad
+  - ~~not sure if solving those problems would help me create an app in cpp~~
+    - not sure if WE (YES YOU AND ME AND EVERYONE ELSE) can make an app on cpp
+      - yutas biggest speed feat btw![What's the best Speed Feat of Yuta? : r/JujutsuPowerScaling](https://preview.redd.it/whats-the-best-speed-feat-of-yuta-v0-kh3sw3vfp90g1.jpeg?width=640&format=pjpg&auto=webp&s=04b28dcb5c83920eff88b8afef1bca63b375c5af)
+        - waht even is my thought process
+  - i have bragging rights now so i gotta mention math too lololololololololololooolloloolololololohahahahalhoalohlaolhoalhoalohglaohlaolhao
+  - oh did i also mention i also got into last years ctf and somehow made it past to the last one lololololoo ididnt even know about cybver security holy brag holy asdiolololoo
+- uhh another fun fact, 3/4 of my code is private so I will basically always look like I'm doing nothing
+  - js for now im working on my schools webpage and maybe 5 other different projects im burned out half from
+- also im kinda stupid but also kinda genuis
+  - look it js works like that
+- i use arch btw
+- I' m a 15 yo (as of 2025) (i mean since im editing on 25/12/27 i should js put like 16 like am i stupid??)
 
-##
+## What I'm good and "decent" at
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="react logo"  />
-</div>
+###### btw `ass` is like ones i barely used (so basically tried) and either didnt use because it was ass or i js didnt like
 
-<h6 align="center">I still suck at most of these</h6>
+###### `i guess` has stuff that i know and can do some basic stuff but not some actual production stuff, take python or bash, usually for ctfs or jetbrains ides, i can code in them (js like any other ide) but dont know its full capability so day to day life or js things i know for fun
 
-##
+###### `pretty good` are stuff that i can actively make something with or is confident with its abilities, idk take like nextjs or smth (my prim has fallen of from then tho) so things im pretty decent at or js things i with as a profession
 
-<div>
-  <h3 align="center">here is a run down of some stuff.</h3>
-  <p align="center">Im a student at "Pinecone" with one of those "<" and ">" (i hope i said the name correctly) and im currently learning web development (🤡🤓).</p>
-  <p align="center">My whole intention of becoming a programmer is just because it "fits me" (🤓🤓🤓🤓). You would have known why if you saw me irl.</p>
-  <p align="center">Im currently working on like 3 (?) projects at once and they are doing good. atleast i think. (🤓🤓🤓🤓🤓🤓🤓🤓)</p>
-  <p align="center">I really like games and thats why around 40% of my projects are game related stuff.</p>
-  <p align="center">the rest is either school stuff or useless website that do nothing other than feed my ego. (🤓🤓🤓🤓)</p>
-  <p align="center">And if you want to ask me stuff... just dont. im a student with a brain damage after all (this is just a joke, i know some of yall are gonna take it literally. im just meaning that im not good).</p>
-  <p align="center">But if you dont care and will aske either ways then mail me i guess. here is the link: reeldob34@gmail.com . and dont get your hopes up cuz i rarely open gamil.</p>
-  <p align="center">Im not gonna make a another 🚁 joke and i swear im not ❌ 🏳️‍🌈, please dont kill me. (i censored the words)</p>
-</div>
-
-###
+| ASS                                                                                  | i guess                                                                                                                                                                                                                       | pretty good                                                                                                          |
+| ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| ![you prolly dont need ts anyways](https://skillicons.dev/icons?i=go,java&perline=1) | ![im not sure on how to catogorize them so ill js put them here](https://skillicons.dev/icons?i=bash,vim,neovim,vscode,cpp,python,rust,svelte,git,css,lua,mongo,postgres,figma,prisma,html,linux,arch,md,ps,rocket&perline=7) | ![i think theyre supposed to be here](https://skillicons.dev/icons?i=js,ts,react,next,tailwind,nodejs,bun&perline=3) |
