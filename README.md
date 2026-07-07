@@ -27,6 +27,8 @@ how original and eternal
 
 did you really think this was gonna be a normal readme?
 
+also the git stats above is false. ok maybe. a lot of my repos are local because they never get past something usable or i care enough to do so. i swear i like work everyday. ok maybe slack off everyday but still
+
 In all seriousness, this README almost shows my unfiltered thought process. And yes, supposedly it was more important than explaining myself clearly. Make sure to have a person nearby, **may cause active brain damage**.
 
 **Have fun!!!**
