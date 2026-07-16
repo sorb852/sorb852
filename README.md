@@ -82,7 +82,9 @@ Personally I am: ( SIN SIN SIN SIN SIN NORMAL WORDS I SEE SIN SIN )
 - ykw forget everything because i updated the readme and im too lazy to remove this section and actually make it readable im js gonna add onto the slop making a slopfest only the real IDF soldiers can enjoy (i mean in a good way (please where is my 10k big yahu pleaase where is my money god bless israel god bless the child killings WHERE IS MY MONEY PLEASE ADMINS)) 
 - for legal and probably self image reasons, I state that the statement I made above is purely satire, and this whole readme might just be too. For the example above I have made fun of the current state of the world due reasons such as coping used as humour. As humour has always a reflection of our political and social mockup as a way to laugh of our pain and suffering, yes it has always been political. (lowkey i wouldve hated this quote but like it benefits me now so i have to agree to it (istg this is also a joke on how people change sides and try staying relative instead of absolute as a means to look better in the surface (is it really a joke? that you have decided to initiate it and now denying the idea of that in hopes of people not catching up to your twisted jokes. or are you really innocent)))
 - damn i actually js explained my personality
-- oh yeah youre also gonna be seeing how i think too
+- i guess im really judgemental and somewhat reflective?
+- though dont want to say that because now it feels corny
+- i mean i could be jailing myself like this but you get the point hopefully
 
 `larp` `larp` `larp` `larp` `larp` (coding side of things). ok ok ill write normally, for things i like to create:
 - *Games*
@@ -90,17 +92,21 @@ Personally I am: ( SIN SIN SIN SIN SIN NORMAL WORDS I SEE SIN SIN )
 - Something <span style="font-size: 20px">*fun*</span>
 - Something <span style="font-size: 20px">*complicated*</span>
 - Something that <span style="font-size: 20px">*teaches*</span> me concepts or in becoming a <span style="font-size: 20px">*better programmer*</span>
-- Something that I made **<span style="font-size: 24px">PURELY</span>** out of **<span style="font-size: 24px">HATE</span>** for the **<span style="font-size: 24px"><span style="font-size: 36px">MADNESS</span> I HAVE FOR THOSE THINGS</span>**
+- Something that I made **<span style="font-size: 24px">PURELY</span>** out of **<span style="font-size: 24px">HATE</span>** for the **<span style="font-size: 24px"><span style="font-size: 36px">MADNESS</span> I HAVE FOR IT</span>**
 
-why is the word larp given extra foucs bro i swear sm weird with my neovim (btw)
+why is the word `larp` given extra foucs bro i swear sm weird with my neovim (btw)
 
 i miss my old BULLSHIT readme so much. i love it
+
 goodbye my love
-tears of pain image
+
+![tears of pain image](https://media1.tenor.com/m/ltYm15-0x6YAAAAC/todo-aoi-tears-of-joy.gif)
 
 <!-- lowk i wonder if anyone is like going through these commits and reading the raw code -->
 <!-- but like wtf genuinely goes around reading random peoples profile READMEs RAW??-->
+
 <!-- well hi i suppose, im guessing that youre reading this too -->
+<!-- get something better to do tho -->
 
 ## PEAK i will NOT gatekeep
 
@@ -110,7 +116,7 @@ so i decided to change this from "ass" "i guess" "decent" to js things i use bec
 
 if you didnt know, i actually dont build everything i use. otherwise everything would be named *___852*
 
-now that im thinking about it, imagine if git is called *git852* or if ultrakill is called *ultrakill852* (didnt think i would bring up ultrakill again DID you) or like hyprland is js *hypr852*
+now that im thinking about it, imagine if git is called *git852* or if ultrakill is called *ultrakill852* (didnt think i would bring up ultrakill again DIDN'T you) or like hyprland is js *hypr852*
 
 | Languages | Tools | Frameworks |
 | --- | --- | --- |
@@ -132,25 +138,27 @@ yes im calling you bum. not on the same bum as yuta "my new jjk oc" okkotsu (fun
 
 anyways i also like tmux because i wouldnt have to fear knowing ANY key i press might just stop my download AND delete my home directory
 
-may wanna mention tiling window managers because navigating normal DE is GOD AWFUL. how do you even use something if everything is layered on top of each other??? right now on my main machine im using niri, because a lot of the time the only two keybind i use is switch workspace 1 and 2 in hyprland so decided to use that as an excuse to rein chaos over my perfectly stable nixos (btw) setup 
+may wanna mention tiling window managers because navigating normal DE is GOD AWFUL. how do you even use something if everything is layered on top of each other??? right now on my main machine im using niri, because a lot of the time the only two keybind i use is switch workspace 1 and 2 in hyprland so decided to use that as an excuse to rein chaos over my perfectly stable nixos (btw) setup. i mean theyre probably better for work when youre NOT spending hours setting it up. its definetly worth it tho
 
 <!-- holy shit im a genuis -->
 just realised that this section is just an excuse to say "I use ___ btw." btw. ever heard of *ultrakill*? its on [devilmayquake.com](http://devilmayquake.com) for onmly 30$. too expensive? YES it took both my(dads) 20$ and 3 years of my life it IS expensive. btw.
 
-also god bless mpd and rmpc. why? FUCKASS SPOTIFY ON SOME "want a break from the ADS?" YOU GAVE ME AIDS YOU BITCH. IM FUMING. i mean soundclouds there but uh uhhh bloat bloat bloat yeah bloat soundcloud is blout. not even opsec like my opera gx even has a vpn 😹😹😹😹 really i just hate having it on a browser
+also god bless mpd and rmpc. why? FUCKASS SPOTIFY ON SOME "want a break from the ADS?" YOU GAVE ME AIDS YOU BITCH. IM FUMING. i mean soundclouds there but uh uhhh bloat bloat bloat yeah bloat soundcloud is blout. not even opsec like my opera gx even has a vpn 😹😹😹😹 really i just hate having it on a browser. also it runs on my terminal btw
 
-recently been trying bspwm qutebroswer alacritty and must say, im lovin it
+recently been trying bspwm qutebroswer alacritty and must say, im lovin it. really i tried them because i needed an excuse to use a different laptop than my main one because that laptop was feeling a *little* too *stable*. so i do whats best and excuse learning new things for slacking off (COMPLETELY worth it)
 
-quickshell is awesome too, tohugh i hated myself for like the first 75% of the usage. the insane curvature man
+quickshell is awesome too, tohugh i hated myself for like the first 75% of the usage. the insane curvature man. i still couldnt make good ui OR think of good ui
 
-nix and nixos 🤤🤤🤤🤤🤤🤤🤤🤤 the learning curve was awful but i got nix brained now so everything else is hard now (lie)
+nix and nixos 🤤🤤🤤🤤🤤🤤🤤🤤 the learning curve was awful but i got nix brained now so everything else is hard now (lie). i love how i can just have a definite setup for my laptop because handling dotfiles is ALWAYS annoying
 
 FUCK i should be talking about programming not chud activity. uh ever heard of c. i am not good with it. yeah. yeah. so hows the segfault going? rainy day huh. srsly though a lot of fun things, i mean miserable stuff. like im art blocked or smth. when i try to make a game its thought. ?????? what???
 
 <!-- HOLY SHIT IM A GENIUS THE JOKES WRITE THEMSELVES -->
-im guessing its related with type 5 (castle btw (btw (btw (they should js call SP5 OPSC5_852 (slang for opsec 5 btw))))) because these people (me) have a fear of being incompetent which is the reason for them always learning and trying to grow in fear theyre not prepared for the world theyre in. essentially building a castle (tey said the thing) around themselves keeping them safe from anything, cozy in their isolation they learn, and learn, and learn. ok so why does this matter? well, i believe that me not being able to make them (not an excuse for being lazy (deadass (on unc (im sorry unc (i mean its true so why ask for forgiveness? (well i put him there so its not the result but the act that i feel conflicted with (10/10 character writing, second person to become fiction)))) it is))) being that believing im not ready to make it yet. hell even in art too. i just wanna make something. but theres this subconcious me percieving act of building, expressing, LOVING, an act of threat. how and when will i fix this?
+im guessing its related with type 5 (castle btw (btw (btw (they should js call SP5 OPSC5_852 (slang for opsec 5 btw))))) because these people (me) have a fear of being incompetent which is the reason for them always learning and trying to grow in fear theyre not prepared for the world theyre in. essentially building a castle (tey said the thing) around themselves keeping them safe from anything, cozy in their isolation, they learn, and learn, and learn. ok so why does this matter? well, i believe that me not being able to make them (not an excuse for being lazy (deadass (on unc (im sorry unc (i mean its true so why ask for forgiveness? (well i put him there so its not the result but the act that i feel conflicted with (10/10 character writing, second person to become fiction)))) it is))) being that believing im not ready to make it yet. hell even in art too. i just wanna make something. but theres this subconcious me percieving act of building, expressing, LOVING, an act of threat. how and when will i fix this?
 
 did i srsly js have a crisis in my readme. new mediatok `larp`
+
+funny how i just used this section to write a bunch of opinions
 
 # closing lines
 
